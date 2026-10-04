@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as described below."
+title: "Home Credit Default Risk Prediction with CatBoost"
+type: software
+authors:
+  - family-names: "Arain"
+    given-names: "Sana Ur Rehman"
+date-released: 2026-10-03
+version: "1.0.0"
+abstract: >
+  An end-to-end machine learning project for predicting loan payment
+  difficulties using the Home Credit Default Risk dataset. The project
+  includes exploratory data analysis, feature engineering, baseline models,
+  CatBoost gradient boosting, validation-based early stopping, and probability
+  blending evaluated with ROC-AUC.
+keywords:
+  - machine learning
+  - credit risk
+  - default prediction
+  - binary classification
+  - CatBoost
+  - feature engineering
+  - ROC-AUC
+license: MIT
+repository-code: "https://github.com/Sanaurrehmanarain/home-credit-default-risk-catboost"
+url: "https://github.com/Sanaurrehmanarain/home-credit-default-risk-catboost"

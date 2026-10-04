@@ -1,0 +1,33 @@
+# data/*.csv
+# data/*.xlsx
+
+# If data files are temporarily stored in the root folder, ignore them.
+# train.csv
+# test.csv
+# sample_submission.csv
+# HomeCredit_columns_description.xlsx
+# output/*.csv
+# submission*.csv
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+# *.cbm
+# *.pkl
+# *.joblib
